@@ -1,7 +1,8 @@
 {
  "seen": [
   "c3fdda281a297838",
-  "fdc63ef1564b074b"
+  "fdc63ef1564b074b",
+  "ebc73f97855809dc"
  ],
  "queue": [
   {
@@ -104,15 +105,6 @@
    "score": 5.0
   },
   {
-   "id": "ebc73f97855809dc",
-   "feed": "Positive News",
-   "title": "Smartphones, ancient tracking skills and a future for desert lions",
-   "link": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
-   "body": "In Namibia, rangers are using real-time data and traditional knowledge to support farmers and safeguard a recovering lion population The post Smartphones, ancient tracking skills and a future for desert lions appeared first on Positive News .",
-   "positive": true,
-   "score": 5.0
-  },
-  {
    "id": "4ff4202c8c36803f",
    "feed": "Positive News",
    "title": "Positive News launches new video podcast exploring what’s going right in the world",
@@ -167,6 +159,6 @@
    "score": 5.0
   }
  ],
- "sent_count": 2,
+ "sent_count": 3,
  "refreshed": 1793274546.939345
 }
