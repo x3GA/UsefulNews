@@ -34,8 +34,8 @@ STATE_PATH = os.environ.get("STATE_PATH", "newsbot_state.json")
 
 REFRESH_HOURS = 6          # как часто обходить ленты
 QUEUE_SIZE = 20            # сколько держать в очереди
-MIN_SCORE = 7              # ниже этой оценки не берём вообще
-MIN_ARTICLE_CHARS = 900    # короче этого — тизер, а не статья
+MIN_SCORE = 6              # ниже этой оценки не берём вообще
+MIN_ARTICLE_CHARS = 500    # короче этого — тизер, а не статья
 POSITIVE_EVERY = 3         # каждая N-я новость — позитивная
 
 POSITIVE_FEEDS = {"Positive News", "Reasons to be Cheerful"}
@@ -47,7 +47,7 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT = os.environ["TELEGRAM_CHAT"]
 API_KEY = os.environ["MODEL_API_KEY"]
 
-UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 newsbot"
+UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 
 # ── промпты ───────────────────────────────────────────────────────────
 
@@ -89,8 +89,9 @@ SUMMARY_PROMPT = """Перескажи эту статью по-русски д�
 - не пересказывай вопрос, которым статья открывается — отвечай на него
 - не выдумывай фактов, которых нет в тексте
 
-Отвечай ПУСТО только если это дайджест ссылок, анонс мероприятия или
-рекламный материал. Репортаж, история или разбор без цифр — не пусто.
+Отвечай ПУСТО ТОЛЬКО если перед тобой список ссылок без содержания
+или страница с ошибкой. Во всех остальных случаях пиши пересказ,
+даже если фактуры мало.
 
 Не пиши никаких рассуждений, разборов и черновиков. В ответе ровно
 две строки: ЗАГОЛОВОК и ТЕКСТ."""
@@ -159,7 +160,11 @@ def collect(feeds, seen):
 def fetch_article(url):
     """Тянет страницу и вынимает основной текст. Это и есть начинка."""
     try:
-        r = requests.get(url, headers={"User-Agent": UA}, timeout=30)
+        r = requests.get(url, headers={
+            "User-Agent": UA,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+        }, timeout=30)
         r.raise_for_status()
         text = trafilatura.extract(
             r.text, include_comments=False, include_tables=False, favor_precision=True
@@ -180,6 +185,7 @@ def ask(system, user, max_tokens=1200):
             json={
                 "model": MODEL,
                 "max_tokens": max_tokens,
+                "reasoning": {"exclude": True},
                 "messages": [
                     {"role": "system", "content": system},
                     {"role": "user", "content": user},
@@ -225,7 +231,7 @@ def rank(items):
             for n, it in enumerate(chunk)
         )
         try:
-            out = ask(RANK_PROMPT, listing, max_tokens=400)
+            out = ask(RANK_PROMPT, listing, max_tokens=2000)
             for n, s in re.findall(r"(\d+)\s*:\s*(\d+(?:\.\d+)?)", out):
                 idx = int(n)
                 if 0 <= idx < len(chunk):
@@ -238,20 +244,24 @@ def rank(items):
 
 
 def summarize(article_text, title):
-    out = ask(SUMMARY_PROMPT, f"{title}\n\n{article_text[:12000]}", max_tokens=1600)
+    out = ask(SUMMARY_PROMPT, f"{title}\n\n{article_text[:12000]}", max_tokens=4000)
     if out.strip().upper().startswith("ПУСТО"):
         return None, None
-    ru_title = title
+
+    ru_title, body = title, ""
     m = re.search(r"ЗАГОЛОВОК:\s*(.+)", out)
-    if m:
-        ru_title = m.group(1).strip()
-    m = re.search(r"ТЕКСТ:\s*(.+)", out, re.S)
-    body = m.group(1).strip() if m else ""
+    t = re.search(r"ТЕКСТ:\s*(.+)", out, re.S)
+    if m and t:
+        ru_title, body = m.group(1).strip(), t.group(1).strip()
+    else:
+        # меток нет: первая строка — заголовок, остальное — тело
+        parts = [p.strip() for p in out.split("\n") if p.strip()]
+        if parts:
+            ru_title = parts[0]
+            body = " ".join(parts[1:])
+
     if body:
-        # рассуждения модели идут после пустой строки — режем там
         body = re.split(r"\n\s*\n", body)[0]
-        body = re.split(r"\n\s*(?:Let me|Now I|Check|Analysis|Note:|Проверк)", body)[0]
-        # переносы внутри абзаца склеиваем, а не теряем
         body = re.sub(r"\s+", " ", body).strip()
     return (ru_title, body) if body else (None, None)
 
