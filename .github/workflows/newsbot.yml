@@ -1,0 +1,37 @@
+name: newsbot
+
+on:
+  schedule:
+    # каждый час с 02:00 до 16:00 UTC = 09:00–23:00 по Бангкоку
+    - cron: "0 2-16 * * *"
+  workflow_dispatch:        # кнопка "запустить сейчас" во вкладке Actions
+
+permissions:
+  contents: write           # нужно, чтобы коммитить состояние обратно
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser requests trafilatura
+
+      - name: Отправить новость
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
+        run: python newsbot.py
+
+      - name: Сохранить состояние
+        run: |
+          git config user.name "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          git add newsbot_state.json
+          git diff --staged --quiet || git commit -m "state $(date -u +%F' '%H:%M)"
+          git push
