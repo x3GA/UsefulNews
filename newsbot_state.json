@@ -12,45 +12,13 @@
   "11c5f9ff13f4eb6b",
   "7035f8d299897cde",
   "6d4c51eb319762d1",
-  "ae04e9240e0a2a9a"
+  "ae04e9240e0a2a9a",
+  "04655b0ca7da34e6",
+  "4ff4202c8c36803f",
+  "772f730306dfada8",
+  "e5be2dcc837ee6a2"
  ],
  "queue": [
-  {
-   "id": "04655b0ca7da34e6",
-   "feed": "MIT Technology Review",
-   "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-   "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-   "body": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at…",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "4ff4202c8c36803f",
-   "feed": "Positive News",
-   "title": "Positive News launches new video podcast exploring what’s going right in the world",
-   "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-   "body": "The What Went Right series is expanding to YouTube and other podcast platforms, bringing its weekly roundup of progress to new audiences The post Positive News launches new video podcast exploring what’s going right in the world appeared first on Positive News .",
-   "positive": true,
-   "score": 5.0
-  },
-  {
-   "id": "772f730306dfada8",
-   "feed": "Positive News",
-   "title": "Cream of the crop: one brand’s quiet quest to reinvent the dairy industry",
-   "link": "https://www.positive.news/environment/cream-of-the-crop-one-brands-quiet-quest-to-reinvent-the-dairy-industry/",
-   "body": "Regenerative agriculture is being explored as a way to make dairy farming more resilient. But what does it mean? We find out The post Cream of the crop: one brand’s quiet quest to reinvent the dairy industry appeared first on Positive News .",
-   "positive": true,
-   "score": 5.0
-  },
-  {
-   "id": "e5be2dcc837ee6a2",
-   "feed": "Positive News",
-   "title": "Free tool helps young men to take responsibility for sexual harm",
-   "link": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/",
-   "body": "Young men are using a digital tool designed to help them reflect on their sexual behaviour – offering an alternative to the manosphere The post Free tool helps young men to take responsibility for sexual harm appeared first on Positive News .",
-   "positive": true,
-   "score": 5.0
-  },
   {
    "id": "a009aa279c5fd07d",
    "feed": "Positive News",
