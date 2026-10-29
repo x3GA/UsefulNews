@@ -8,6 +8,10 @@
 	<outline text="NEWS" title="NEWS">
 		<outline text="MIT Technology Review" title="MIT Technology Review" description="" type="rss" version="RSS" htmlUrl="https://www.technologyreview.com/" xmlUrl="https://www.technologyreview.com/feed/"/>
 		<outline text="Positive News" title="Positive News" description="" type="rss" version="RSS" htmlUrl="https://www.positive.news/" xmlUrl="https://positive.news/feed/"/>
+		<outline text="Science Daily" title="Science Daily" description="" type="rss" version="RSS" htmlUrl="https://www.sciencedaily.com/" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml"/>
+		<outline text="Phys" title="Phys" description="" type="rss" version="RSS" htmlUrl="https://phys.org/" xmlUrl="https://phys.org/rss-feed/"/>
+		<outline text="Arstechnica" title="Arstechnica" description="" type="rss" version="RSS" htmlUrl="https://feeds.arstechnica.com/" xmlUrl="https://feeds.arstechnica.com/arstechnica/science"/>
+		<outline text="Spectrum" title="Spectrum" description="" type="rss" version="RSS" htmlUrl="https://spectrum.ieee.org/" xmlUrl="https://spectrum.ieee.org/feeds/feed.rss"/>
 		<outline text="Reasons to be Cheerful" title="Reasons to be Cheerful" description="" type="rss" version="RSS" htmlUrl="https://reasonstobecheerful.world/" xmlUrl="https://reasonstobecheerful.world/feed/"/>
 		<outline text="The Works in Progress Newsletter" title="The Works in Progress Newsletter" description="" type="rss" version="RSS" htmlUrl="https://www.worksinprogress.news/" xmlUrl="https://worksinprogress.news/feed/"/>
 	</outline>
