@@ -6,54 +6,14 @@
   "baadcb6778541e7a",
   "c466e8e788380146",
   "ddb5abbcba004f0c",
-  "8d309631f2436e38"
+  "8d309631f2436e38",
+  "477cbeff3ae9bfcd",
+  "c3cf1c88b64495b8",
+  "11c5f9ff13f4eb6b",
+  "7035f8d299897cde",
+  "6d4c51eb319762d1"
  ],
  "queue": [
-  {
-   "id": "477cbeff3ae9bfcd",
-   "feed": "MIT Technology Review",
-   "title": "The Download: dead startups fueling AI and interspecies communication",
-   "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-   "body": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "c3cf1c88b64495b8",
-   "feed": "MIT Technology Review",
-   "title": "Pairing industrial AI autonomy and human control",
-   "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-   "body": "",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "11c5f9ff13f4eb6b",
-   "feed": "MIT Technology Review",
-   "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-   "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-   "body": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out…",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "7035f8d299897cde",
-   "feed": "MIT Technology Review",
-   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-   "body": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "6d4c51eb319762d1",
-   "feed": "MIT Technology Review",
-   "title": "How solid-state transformers could help power the AI boom",
-   "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-   "body": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade. As the world races to meet rising electricity demand from…",
-   "positive": false,
-   "score": 5.0
-  },
   {
    "id": "ae04e9240e0a2a9a",
    "feed": "MIT Technology Review",
