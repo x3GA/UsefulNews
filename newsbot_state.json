@@ -2,45 +2,13 @@
  "seen": [
   "c3fdda281a297838",
   "fdc63ef1564b074b",
-  "ebc73f97855809dc"
+  "ebc73f97855809dc",
+  "baadcb6778541e7a",
+  "c466e8e788380146",
+  "ddb5abbcba004f0c",
+  "8d309631f2436e38"
  ],
  "queue": [
-  {
-   "id": "baadcb6778541e7a",
-   "feed": "The Works in Progress Newsletter",
-   "title": "The 1970s law holding back modern biotechnology",
-   "link": "https://www.worksinprogress.news/p/all-the-microbes-you-cant-have",
-   "body": "We’ve invented microbes that can eat plastic, detect landmines, and extract rare metals. They’ve been swallowed by a black hole.",
-   "positive": false,
-   "score": 8.0
-  },
-  {
-   "id": "c466e8e788380146",
-   "feed": "MIT Technology Review",
-   "title": "We urgently need to monitor AI agents’ actions in real time",
-   "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-   "body": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "ddb5abbcba004f0c",
-   "feed": "MIT Technology Review",
-   "title": "Our climate models have a big, dangerous blind spot",
-   "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-   "body": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…",
-   "positive": false,
-   "score": 5.0
-  },
-  {
-   "id": "8d309631f2436e38",
-   "feed": "MIT Technology Review",
-   "title": "Creating AI value with enterprise context",
-   "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-   "body": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-   "positive": false,
-   "score": 5.0
-  },
   {
    "id": "477cbeff3ae9bfcd",
    "feed": "MIT Technology Review",
@@ -159,6 +127,6 @@
    "score": 5.0
   }
  ],
- "sent_count": 3,
+ "sent_count": 4,
  "refreshed": 1793274546.939345
 }
