@@ -41,7 +41,7 @@ POSITIVE_EVERY = 3         # каждая N-я новость — позитив
 POSITIVE_FEEDS = {"Positive News", "Reasons to be Cheerful"}
 
 PROVIDER = "openrouter"            # "openrouter" или "anthropic"
-MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
+MODEL = "anthropic/claude-haiku-5.5"
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT = os.environ["TELEGRAM_CHAT"]

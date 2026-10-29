@@ -11,18 +11,10 @@
   "c3cf1c88b64495b8",
   "11c5f9ff13f4eb6b",
   "7035f8d299897cde",
-  "6d4c51eb319762d1"
+  "6d4c51eb319762d1",
+  "ae04e9240e0a2a9a"
  ],
  "queue": [
-  {
-   "id": "ae04e9240e0a2a9a",
-   "feed": "MIT Technology Review",
-   "title": "Will the real Anthropic please stand up",
-   "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-   "body": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
-   "positive": false,
-   "score": 5.0
-  },
   {
    "id": "04655b0ca7da34e6",
    "feed": "MIT Technology Review",
