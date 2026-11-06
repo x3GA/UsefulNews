@@ -1,140 +1,84 @@
 {
  "seen": [
-  "9c41a513889c8d4f"
+  "5a7f7575a8206971",
+  "1f2b2a3c94be42d2",
+  "07d6881f3015f2b0",
+  "42fdcb4556bc2bd7",
+  "b657bbd1f782d983",
+  "2891d0ce69d566b6",
+  "82355b31bc9b9470",
+  "4d91e1b6a638754c",
+  "980221234b0360ab",
+  "80d7026d11d752ce",
+  "f3204a497e37de3f",
+  "53df4a8cbbd987c8",
+  "3801be1b1e84abae",
+  "76803fdd79e79da6",
+  "228e36fcf702cad0",
+  "7bd06039e1fcbcef",
+  "f5f0086a8065730a"
  ],
  "queue": [
   {
-   "id": "11e21462d76e0958",
+   "id": "99c61f8e8d72f700",
    "feed": "Science Daily",
-   "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-   "blurb": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
+   "title": "Physicists created a tiny universe and watched time emerge without a clock",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+   "blurb": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated quantum system that repeatedly expands and contracts, mimicking the Big Bang and a possible Big Crunch. Remarkably, the experiment showed that time could emerge from changes happening inside the system, without relying on an external clock.",
    "positive": false,
    "score": 8.0
   },
   {
-   "id": "6059ef3a52dd7bca",
+   "id": "c7ea81d1e8ffa8d4",
    "feed": "Science Daily",
-   "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-   "blurb": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electronics, medicine, and energy.",
-   "positive": false,
-   "score": 8.0
-  },
-  {
-   "id": "06c34b210643cfbb",
-   "feed": "Science Daily",
-   "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-   "blurb": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise obesity treatment if future human trials prove successful.",
-   "positive": false,
-   "score": 8.0
-  },
-  {
-   "id": "0104c7b9ce8475a5",
-   "feed": "Science Daily",
-   "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
-   "blurb": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group. That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia.",
-   "positive": false,
-   "score": 8.0
-  },
-  {
-   "id": "e66d3b28d0adae27",
-   "feed": "Science Daily",
-   "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-   "blurb": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecules were widespread throughout the early Solar System.",
-   "positive": false,
-   "score": 8.0
-  },
-  {
-   "id": "794bc3250f5793ce",
-   "feed": "Science Daily",
-   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-   "blurb": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
+   "title": "Astronauts just gave the International Space Station a powerful upgrade",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+   "blurb": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.",
    "positive": false,
    "score": 7.0
   },
   {
-   "id": "df544b94f58f2d23",
+   "id": "6bfc82dbf2af94c8",
    "feed": "Science Daily",
-   "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-   "blurb": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one of the world's most energy-intensive industries.",
+   "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+   "blurb": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead.",
    "positive": false,
    "score": 7.0
   },
   {
-   "id": "f7889b98540397a8",
+   "id": "a6bfd940a4a61ecb",
    "feed": "Science Daily",
-   "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-   "blurb": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and distort the red supergiant’s shape.",
-   "positive": false,
-   "score": 7.0
-  },
-  {
-   "id": "b657bbd1f782d983",
-   "feed": "Spectrum",
-   "title": "The Robot I Didn’t Expect to Build",
-   "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-   "blurb": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. Engineered to lift 23-kilogram bins onto high shelves and with a battery that can run for 90 minutes on a 9-minute charge, Digit 5’s goal is to handle heavy warehouse tasks shift after shift, filling the need for labor in jobs that are too physically stressful or too dull for humans to ",
-   "positive": false,
-   "score": 7.0
-  },
-  {
-   "id": "8d1f9bd8e6c30ea3",
-   "feed": "MIT Technology Review",
-   "title": "How “reverse game theory” could keep AI agents in check",
-   "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-   "blurb": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "blurb": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the catastrophic impact.",
    "positive": false,
    "score": 6.0
   },
   {
-   "id": "80a8d95727984f6e",
+   "id": "887f5088399a5922",
    "feed": "Science Daily",
-   "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
-   "blurb": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
+   "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+   "blurb": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" these elusive creatures are known from just seven specimens, and no one has ever seen one alive.",
    "positive": false,
    "score": 6.0
   },
   {
-   "id": "225ab5981c9df5b6",
+   "id": "05f3b32801c285a7",
    "feed": "Science Daily",
-   "title": "Dead stars could break one of physics' most famous limits",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
-   "blurb": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for decades. The findings could help explain unusually bright supernova explosions that have long puzzled astronomers.",
+   "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
+   "blurb": "Astronomers have solved a 170-year-old planetary mystery in a nearby two-star system, discovering that a mysterious wobble was caused by stellar activity rather than a giant planet. Although Jupiter-sized worlds have been ruled out in key regions, smaller, potentially habitable planets could still be waiting to be discovered just 16 light-years from Earth.",
    "positive": false,
    "score": 6.0
   },
   {
-   "id": "ac4413a3e10a1640",
+   "id": "bbc6809322e7216b",
    "feed": "Science Daily",
-   "title": "Scientists turn viruses into weapons against deadly superbugs",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
-   "blurb": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatment into clinical practice. Early findings are encouraging, with one study reporting improvement in 77% of patients and the disappearance of targeted bacteria in 61%.",
-   "positive": false,
-   "score": 6.0
-  },
-  {
-   "id": "c2d562a91019309e",
-   "feed": "Science Daily",
-   "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-   "blurb": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that target the disease at its roots.",
-   "positive": false,
-   "score": 6.0
-  },
-  {
-   "id": "4a9bb134f643a6e1",
-   "feed": "Science Daily",
-   "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
-   "blurb": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation.",
+   "title": "Scientists discover why chronic back pain feels so personal",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+   "blurb": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited relief and why fear, anticipation, and past experiences can intensify chronic pain.",
    "positive": false,
    "score": 6.0
   },
@@ -148,15 +92,87 @@
    "score": 6.0
   },
   {
-   "id": "f5f0086a8065730a",
-   "feed": "Spectrum",
-   "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
-   "link": "https://spectrum.ieee.org/variable-frequency-drives",
-   "blurb": "This article was originally published by Canary Media . America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation —from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already available for the taking across the U.S. economy in the form of wasted energy from an unexpected source: motors. Some 50 million electric motors drive the fans, pumps, and compressors found in virtually every factory and building. Together, they gobble enough electricity to equal nearly a third of to",
+   "id": "65b36c660245cc2f",
+   "feed": "Science Daily",
+   "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+   "blurb": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "0de00bcc7191160a",
+   "feed": "Science Daily",
+   "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+   "blurb": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known boundaries of early-universe physics.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "0e2d1919acc28f27",
+   "feed": "Science Daily",
+   "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+   "blurb": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "18d5a9cae594b012",
+   "feed": "Science Daily",
+   "title": "Scientists discover metals that defy the deep freeze at -424°F",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+   "blurb": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking, two experimental alloys reorganize their internal structures, creating new ways to absorb stress and remain flexible.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "c797c1ad49fd53b4",
+   "feed": "Science Daily",
+   "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+   "blurb": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work together to shape the foveola, the tiny region at the center of the retina responsible for our sharpest vision.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "3b113679c87804ae",
+   "feed": "Science Daily",
+   "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+   "blurb": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.",
    "positive": false,
    "score": 6.0
+  },
+  {
+   "id": "37224013727627db",
+   "feed": "Science Daily",
+   "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+   "blurb": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing the DNA that switches on its lethal weapon. The infected bacterium then destroys itself, preventing the virus from multiplying and spreading to neighboring cells.",
+   "positive": false,
+   "score": 6.0
+  },
+  {
+   "id": "5f7ba44a9f94f5d8",
+   "feed": "Science Daily",
+   "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+   "blurb": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the Big Bang, extreme cosmic events, and some of the universe’s greatest mysteries.",
+   "positive": false,
+   "score": 8.0
+  },
+  {
+   "id": "63f9b0151b5faea5",
+   "feed": "Science Daily",
+   "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+   "blurb": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while their unexpected sizes and numbers challenge existing theories of planet formation.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 1,
- "refreshed": 1793966569.4323153
+ "sent_count": 17,
+ "refreshed": 1793710976.377592
 }
