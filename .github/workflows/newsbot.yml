@@ -3,7 +3,7 @@ name: newsbot
 on:
   schedule:
     # каждые 3 часа с 03:00 до 15:00 UTC = 10:00–22:00 по Бангкоку
-    - cron: "0 3,6,9,12,15 * * *"
+    - cron: "0 3,6,9,12,15,20 * * *"
   workflow_dispatch:        # кнопка "запустить сейчас" во вкладке Actions
 
 permissions:
