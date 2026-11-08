@@ -17,18 +17,10 @@
   "228e36fcf702cad0",
   "7bd06039e1fcbcef",
   "f5f0086a8065730a",
-  "99c61f8e8d72f700"
+  "99c61f8e8d72f700",
+  "c7ea81d1e8ffa8d4"
  ],
  "queue": [
-  {
-   "id": "c7ea81d1e8ffa8d4",
-   "feed": "Science Daily",
-   "title": "Astronauts just gave the International Space Station a powerful upgrade",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
-   "blurb": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "6bfc82dbf2af94c8",
    "feed": "Science Daily",
@@ -190,8 +182,17 @@
    "blurb": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists suspect hundreds of additional satellite galaxies remain undiscovered, and Rubin's powerful telescope could finally bring them into view.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "0104c7b9ce8475a5",
+   "feed": "Science Daily",
+   "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+   "blurb": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group. That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 18,
- "refreshed": 1794093523.2351549
+ "sent_count": 19,
+ "refreshed": 1794131129.849752
 }
