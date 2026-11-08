@@ -19,18 +19,10 @@
   "f5f0086a8065730a",
   "99c61f8e8d72f700",
   "c7ea81d1e8ffa8d4",
-  "6bfc82dbf2af94c8"
+  "6bfc82dbf2af94c8",
+  "a6bfd940a4a61ecb"
  ],
  "queue": [
-  {
-   "id": "a6bfd940a4a61ecb",
-   "feed": "Science Daily",
-   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-   "blurb": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the catastrophic impact.",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "887f5088399a5922",
    "feed": "Science Daily",
@@ -194,6 +186,6 @@
    "score": 8.0
   }
  ],
- "sent_count": 20,
+ "sent_count": 21,
  "refreshed": 1794158860.7216272
 }
