@@ -20,18 +20,10 @@
   "99c61f8e8d72f700",
   "c7ea81d1e8ffa8d4",
   "6bfc82dbf2af94c8",
-  "a6bfd940a4a61ecb"
+  "a6bfd940a4a61ecb",
+  "887f5088399a5922"
  ],
  "queue": [
-  {
-   "id": "887f5088399a5922",
-   "feed": "Science Daily",
-   "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
-   "blurb": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" these elusive creatures are known from just seven specimens, and no one has ever seen one alive.",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "05f3b32801c285a7",
    "feed": "Science Daily",
@@ -184,8 +176,26 @@
    "blurb": "Scientists have created record-breaking X-ray flashes lasting just 300 attoseconds, concentrating enormous power into an incredibly tiny spot. The breakthrough could unlock a new way to observe electrons in action and potentially control the ultrafast processes that drive chemical reactions.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "ff03b4bafa044c32",
+   "feed": "Science Daily",
+   "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+   "blurb": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "00f19074f4097983",
+   "feed": "Science Daily",
+   "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+   "blurb": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 21,
- "refreshed": 1794158860.7216272
+ "sent_count": 22,
+ "refreshed": 1794221153.1880457
 }
