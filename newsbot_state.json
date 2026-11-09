@@ -21,18 +21,10 @@
   "c7ea81d1e8ffa8d4",
   "6bfc82dbf2af94c8",
   "a6bfd940a4a61ecb",
-  "887f5088399a5922"
+  "887f5088399a5922",
+  "05f3b32801c285a7"
  ],
  "queue": [
-  {
-   "id": "05f3b32801c285a7",
-   "feed": "Science Daily",
-   "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
-   "blurb": "Astronomers have solved a 170-year-old planetary mystery in a nearby two-star system, discovering that a mysterious wobble was caused by stellar activity rather than a giant planet. Although Jupiter-sized worlds have been ruled out in key regions, smaller, potentially habitable planets could still be waiting to be discovered just 16 light-years from Earth.",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "bbc6809322e7216b",
    "feed": "Science Daily",
@@ -194,8 +186,17 @@
    "blurb": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "cdaccc15501b8b4f",
+   "feed": "Science Daily",
+   "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+   "blurb": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based computing and sensing technologies closer to reality.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 22,
- "refreshed": 1794221153.1880457
+ "sent_count": 23,
+ "refreshed": 1794260951.0187125
 }
