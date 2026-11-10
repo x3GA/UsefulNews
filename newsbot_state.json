@@ -23,18 +23,10 @@
   "a6bfd940a4a61ecb",
   "887f5088399a5922",
   "05f3b32801c285a7",
-  "bbc6809322e7216b"
+  "bbc6809322e7216b",
+  "d969a2298b1268fb"
  ],
  "queue": [
-  {
-   "id": "d969a2298b1268fb",
-   "feed": "Spectrum",
-   "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
-   "link": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-   "blurb": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awake, and the Alia bolts forward. There’s no shriek of a turbofan spooling up, no shudder of a piston engine, and no wait for thrust. Just the low hum of an electric motor and a shove of instant acceleration. Within a few seconds, we’re at 85 knots (almost 160 kilometers per hour), and Caputo rotates t",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "65b36c660245cc2f",
    "feed": "Science Daily",
@@ -196,8 +188,17 @@
    "blurb": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "e109ed741d2606c0",
+   "feed": "Science Daily",
+   "title": "Alzheimer’s may have early warning signs outside the brain",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+   "blurb": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 24,
- "refreshed": 1794307175.6871362
+ "sent_count": 25,
+ "refreshed": 1794337828.2009275
 }
