@@ -22,18 +22,10 @@
   "6bfc82dbf2af94c8",
   "a6bfd940a4a61ecb",
   "887f5088399a5922",
-  "05f3b32801c285a7"
+  "05f3b32801c285a7",
+  "bbc6809322e7216b"
  ],
  "queue": [
-  {
-   "id": "bbc6809322e7216b",
-   "feed": "Science Daily",
-   "title": "Scientists discover why chronic back pain feels so personal",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
-   "blurb": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited relief and why fear, anticipation, and past experiences can intensify chronic pain.",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "d969a2298b1268fb",
    "feed": "Spectrum",
@@ -195,8 +187,17 @@
    "blurb": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based computing and sensing technologies closer to reality.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "aa5ff3ce791baa85",
+   "feed": "Science Daily",
+   "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+   "blurb": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 23,
- "refreshed": 1794260951.0187125
+ "sent_count": 24,
+ "refreshed": 1794307175.6871362
 }
