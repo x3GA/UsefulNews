@@ -25,18 +25,10 @@
   "05f3b32801c285a7",
   "bbc6809322e7216b",
   "d969a2298b1268fb",
-  "65b36c660245cc2f"
+  "65b36c660245cc2f",
+  "0de00bcc7191160a"
  ],
  "queue": [
-  {
-   "id": "0de00bcc7191160a",
-   "feed": "Science Daily",
-   "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-   "blurb": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known boundaries of early-universe physics.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "0e2d1919acc28f27",
    "feed": "Science Daily",
@@ -189,8 +181,26 @@
    "blurb": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "9286d32c72357028",
+   "feed": "Science Daily",
+   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+   "blurb": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "07e631b1d71d05d5",
+   "feed": "Science Daily",
+   "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+   "blurb": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 26,
- "refreshed": 1794337828.2009275
+ "sent_count": 27,
+ "refreshed": 1794391705.3443375
 }
