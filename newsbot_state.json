@@ -24,18 +24,10 @@
   "887f5088399a5922",
   "05f3b32801c285a7",
   "bbc6809322e7216b",
-  "d969a2298b1268fb"
+  "d969a2298b1268fb",
+  "65b36c660245cc2f"
  ],
  "queue": [
-  {
-   "id": "65b36c660245cc2f",
-   "feed": "Science Daily",
-   "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
-   "blurb": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "0de00bcc7191160a",
    "feed": "Science Daily",
@@ -199,6 +191,6 @@
    "score": 7.0
   }
  ],
- "sent_count": 25,
+ "sent_count": 26,
  "refreshed": 1794337828.2009275
 }
