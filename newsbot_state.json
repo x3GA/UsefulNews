@@ -26,18 +26,10 @@
   "bbc6809322e7216b",
   "d969a2298b1268fb",
   "65b36c660245cc2f",
-  "0de00bcc7191160a"
+  "0de00bcc7191160a",
+  "0e2d1919acc28f27"
  ],
  "queue": [
-  {
-   "id": "0e2d1919acc28f27",
-   "feed": "Science Daily",
-   "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-   "blurb": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "18d5a9cae594b012",
    "feed": "Science Daily",
@@ -199,8 +191,17 @@
    "blurb": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "1e328afeb6e141bc",
+   "feed": "Science Daily",
+   "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+   "blurb": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 27,
- "refreshed": 1794391705.3443375
+ "sent_count": 28,
+ "refreshed": 1794423995.933443
 }
