@@ -28,18 +28,10 @@
   "65b36c660245cc2f",
   "0de00bcc7191160a",
   "0e2d1919acc28f27",
-  "18d5a9cae594b012"
+  "18d5a9cae594b012",
+  "c797c1ad49fd53b4"
  ],
  "queue": [
-  {
-   "id": "c797c1ad49fd53b4",
-   "feed": "Science Daily",
-   "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-   "blurb": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work together to shape the foveola, the tiny region at the center of the retina responsible for our sharpest vision.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "3b113679c87804ae",
    "feed": "Science Daily",
@@ -201,8 +193,17 @@
    "blurb": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature can create complex biological patterns without a detailed blueprint.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "e208d0b84893d22c",
+   "feed": "Science Daily",
+   "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+   "blurb": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 29,
- "refreshed": 1794447931.9309871
+ "sent_count": 30,
+ "refreshed": 1794479552.6998746
 }
