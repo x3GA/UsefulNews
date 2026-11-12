@@ -29,18 +29,10 @@
   "0de00bcc7191160a",
   "0e2d1919acc28f27",
   "18d5a9cae594b012",
-  "c797c1ad49fd53b4"
+  "c797c1ad49fd53b4",
+  "3b113679c87804ae"
  ],
  "queue": [
-  {
-   "id": "3b113679c87804ae",
-   "feed": "Science Daily",
-   "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-   "blurb": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "37224013727627db",
    "feed": "Science Daily",
@@ -202,8 +194,17 @@
    "blurb": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "a795608253668b4b",
+   "feed": "Science Daily",
+   "title": "A massive new simulation reveals how the universe emerged from darkness",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+   "blurb": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 30,
- "refreshed": 1794479552.6998746
+ "sent_count": 31,
+ "refreshed": 1794511446.7389581
 }
