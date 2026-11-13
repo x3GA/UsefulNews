@@ -31,18 +31,10 @@
   "18d5a9cae594b012",
   "c797c1ad49fd53b4",
   "3b113679c87804ae",
-  "37224013727627db"
+  "37224013727627db",
+  "5f7ba44a9f94f5d8"
  ],
  "queue": [
-  {
-   "id": "5f7ba44a9f94f5d8",
-   "feed": "Science Daily",
-   "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
-   "blurb": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the Big Bang, extreme cosmic events, and some of the universe’s greatest mysteries.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "63f9b0151b5faea5",
    "feed": "Science Daily",
@@ -195,8 +187,26 @@
    "blurb": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "8fc9b479e635a125",
+   "feed": "Science Daily",
+   "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+   "blurb": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
+   "positive": false,
+   "score": 8.0
+  },
+  {
+   "id": "f9f6b92afbc12fdf",
+   "feed": "Science Daily",
+   "title": "Crows can make decisions twice as fast as humans, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+   "blurb": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 32,
- "refreshed": 1794511446.7389581
+ "sent_count": 33,
+ "refreshed": 1794565527.6876261
 }
