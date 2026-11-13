@@ -32,18 +32,10 @@
   "c797c1ad49fd53b4",
   "3b113679c87804ae",
   "37224013727627db",
-  "5f7ba44a9f94f5d8"
+  "5f7ba44a9f94f5d8",
+  "63f9b0151b5faea5"
  ],
  "queue": [
-  {
-   "id": "63f9b0151b5faea5",
-   "feed": "Science Daily",
-   "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-   "blurb": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while their unexpected sizes and numbers challenge existing theories of planet formation.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "9c41a513889c8d4f",
    "feed": "Science Daily",
@@ -205,8 +197,17 @@
    "blurb": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "d7ad22ed827375f6",
+   "feed": "Science Daily",
+   "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+   "blurb": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 33,
- "refreshed": 1794565527.6876261
+ "sent_count": 34,
+ "refreshed": 1794596536.779187
 }
