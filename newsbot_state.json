@@ -30,18 +30,10 @@
   "0e2d1919acc28f27",
   "18d5a9cae594b012",
   "c797c1ad49fd53b4",
-  "3b113679c87804ae"
+  "3b113679c87804ae",
+  "37224013727627db"
  ],
  "queue": [
-  {
-   "id": "37224013727627db",
-   "feed": "Science Daily",
-   "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
-   "blurb": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing the DNA that switches on its lethal weapon. The infected bacterium then destroys itself, preventing the virus from multiplying and spreading to neighboring cells.",
-   "positive": false,
-   "score": 6.0
-  },
   {
    "id": "5f7ba44a9f94f5d8",
    "feed": "Science Daily",
@@ -205,6 +197,6 @@
    "score": 7.0
   }
  ],
- "sent_count": 31,
+ "sent_count": 32,
  "refreshed": 1794511446.7389581
 }
