@@ -34,18 +34,10 @@
   "37224013727627db",
   "5f7ba44a9f94f5d8",
   "63f9b0151b5faea5",
-  "9c41a513889c8d4f"
+  "9c41a513889c8d4f",
+  "11e21462d76e0958"
  ],
  "queue": [
-  {
-   "id": "11e21462d76e0958",
-   "feed": "Science Daily",
-   "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-   "blurb": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "10fb0c4d7d5219dd",
    "feed": "Science Daily",
@@ -198,8 +190,26 @@
    "blurb": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "39136d85fce30fe7",
+   "feed": "Science Daily",
+   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+   "blurb": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "3a92920b650413bf",
+   "feed": "Science Daily",
+   "title": "AI-powered bionic eye breakthrough could help the blind see again",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "blurb": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 35,
- "refreshed": 1794596536.779187
+ "sent_count": 36,
+ "refreshed": 1794649350.9273722
 }
