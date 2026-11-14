@@ -36,18 +36,10 @@
   "63f9b0151b5faea5",
   "9c41a513889c8d4f",
   "11e21462d76e0958",
-  "10fb0c4d7d5219dd"
+  "10fb0c4d7d5219dd",
+  "0104c7b9ce8475a5"
  ],
  "queue": [
-  {
-   "id": "0104c7b9ce8475a5",
-   "feed": "Science Daily",
-   "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
-   "blurb": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group. That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "cd5eca77b80ff812",
    "feed": "Science Daily",
@@ -209,8 +201,17 @@
    "blurb": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "7b3fa9f63382cb15",
+   "feed": "Science Daily",
+   "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+   "blurb": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 37,
- "refreshed": 1794677530.2360847
+ "sent_count": 38,
+ "refreshed": 1794699241.2292411
 }
