@@ -33,18 +33,10 @@
   "3b113679c87804ae",
   "37224013727627db",
   "5f7ba44a9f94f5d8",
-  "63f9b0151b5faea5"
+  "63f9b0151b5faea5",
+  "9c41a513889c8d4f"
  ],
  "queue": [
-  {
-   "id": "9c41a513889c8d4f",
-   "feed": "Science Daily",
-   "title": "Scientists just found dinosaur blood that survived 115 million years",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-   "blurb": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "11e21462d76e0958",
    "feed": "Science Daily",
@@ -208,6 +200,6 @@
    "score": 8.0
   }
  ],
- "sent_count": 34,
+ "sent_count": 35,
  "refreshed": 1794596536.779187
 }
