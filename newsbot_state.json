@@ -35,18 +35,10 @@
   "5f7ba44a9f94f5d8",
   "63f9b0151b5faea5",
   "9c41a513889c8d4f",
-  "11e21462d76e0958"
+  "11e21462d76e0958",
+  "10fb0c4d7d5219dd"
  ],
  "queue": [
-  {
-   "id": "10fb0c4d7d5219dd",
-   "feed": "Science Daily",
-   "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
-   "blurb": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists suspect hundreds of additional satellite galaxies remain undiscovered, and Rubin's powerful telescope could finally bring them into view.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "0104c7b9ce8475a5",
    "feed": "Science Daily",
@@ -208,8 +200,17 @@
    "blurb": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "d837e9eb2622f560",
+   "feed": "Science Daily",
+   "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+   "blurb": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 36,
- "refreshed": 1794649350.9273722
+ "sent_count": 37,
+ "refreshed": 1794677530.2360847
 }
