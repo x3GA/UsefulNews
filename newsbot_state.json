@@ -39,18 +39,10 @@
   "10fb0c4d7d5219dd",
   "0104c7b9ce8475a5",
   "cd5eca77b80ff812",
-  "ff03b4bafa044c32"
+  "ff03b4bafa044c32",
+  "00f19074f4097983"
  ],
  "queue": [
-  {
-   "id": "00f19074f4097983",
-   "feed": "Science Daily",
-   "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-   "blurb": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "cdaccc15501b8b4f",
    "feed": "Science Daily",
@@ -214,6 +206,6 @@
    "score": 7.0
   }
  ],
- "sent_count": 40,
+ "sent_count": 41,
  "refreshed": 1794766871.2920954
 }
