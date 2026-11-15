@@ -37,18 +37,10 @@
   "9c41a513889c8d4f",
   "11e21462d76e0958",
   "10fb0c4d7d5219dd",
-  "0104c7b9ce8475a5"
+  "0104c7b9ce8475a5",
+  "cd5eca77b80ff812"
  ],
  "queue": [
-  {
-   "id": "cd5eca77b80ff812",
-   "feed": "Science Daily",
-   "title": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
-   "blurb": "Scientists have created record-breaking X-ray flashes lasting just 300 attoseconds, concentrating enormous power into an incredibly tiny spot. The breakthrough could unlock a new way to observe electrons in action and potentially control the ultrafast processes that drive chemical reactions.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "ff03b4bafa044c32",
    "feed": "Science Daily",
@@ -210,8 +202,17 @@
    "blurb": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "bcd1b15318a873c9",
+   "feed": "Science Daily",
+   "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+   "blurb": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 38,
- "refreshed": 1794699241.2292411
+ "sent_count": 39,
+ "refreshed": 1794737716.9956563
 }
