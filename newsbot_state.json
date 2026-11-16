@@ -41,18 +41,10 @@
   "cd5eca77b80ff812",
   "ff03b4bafa044c32",
   "00f19074f4097983",
-  "cdaccc15501b8b4f"
+  "cdaccc15501b8b4f",
+  "aa5ff3ce791baa85"
  ],
  "queue": [
-  {
-   "id": "aa5ff3ce791baa85",
-   "feed": "Science Daily",
-   "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-   "blurb": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "e109ed741d2606c0",
    "feed": "Science Daily",
@@ -214,8 +206,17 @@
    "blurb": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "5d04dde7507a735f",
+   "feed": "Science Daily",
+   "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+   "blurb": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 42,
- "refreshed": 1794824917.1146772
+ "sent_count": 43,
+ "refreshed": 1794864594.044052
 }
