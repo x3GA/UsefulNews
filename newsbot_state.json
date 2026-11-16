@@ -40,18 +40,10 @@
   "0104c7b9ce8475a5",
   "cd5eca77b80ff812",
   "ff03b4bafa044c32",
-  "00f19074f4097983"
+  "00f19074f4097983",
+  "cdaccc15501b8b4f"
  ],
  "queue": [
-  {
-   "id": "cdaccc15501b8b4f",
-   "feed": "Science Daily",
-   "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-   "blurb": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based computing and sensing technologies closer to reality.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "aa5ff3ce791baa85",
    "feed": "Science Daily",
@@ -204,8 +196,26 @@
    "blurb": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "c483ec2db561705f",
+   "feed": "Science Daily",
+   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "blurb": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "b53dbb591be4db52",
+   "feed": "Science Daily",
+   "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+   "blurb": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 41,
- "refreshed": 1794766871.2920954
+ "sent_count": 42,
+ "refreshed": 1794824917.1146772
 }
