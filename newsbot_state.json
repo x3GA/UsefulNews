@@ -42,18 +42,10 @@
   "ff03b4bafa044c32",
   "00f19074f4097983",
   "cdaccc15501b8b4f",
-  "aa5ff3ce791baa85"
+  "aa5ff3ce791baa85",
+  "e109ed741d2606c0"
  ],
  "queue": [
-  {
-   "id": "e109ed741d2606c0",
-   "feed": "Science Daily",
-   "title": "Alzheimer’s may have early warning signs outside the brain",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-   "blurb": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "9286d32c72357028",
    "feed": "Science Daily",
@@ -215,8 +207,17 @@
    "blurb": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "019575aece95d941",
+   "feed": "Science Daily",
+   "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+   "blurb": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 43,
- "refreshed": 1794864594.044052
+ "sent_count": 44,
+ "refreshed": 1794914655.3567643
 }
