@@ -43,18 +43,10 @@
   "00f19074f4097983",
   "cdaccc15501b8b4f",
   "aa5ff3ce791baa85",
-  "e109ed741d2606c0"
+  "e109ed741d2606c0",
+  "9286d32c72357028"
  ],
  "queue": [
-  {
-   "id": "9286d32c72357028",
-   "feed": "Science Daily",
-   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-   "blurb": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "07e631b1d71d05d5",
    "feed": "Science Daily",
@@ -216,8 +208,17 @@
    "blurb": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "25b27a09eb2fa304",
+   "feed": "Science Daily",
+   "title": "A material just one atom thick reveals a strange quantum secret",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
+   "blurb": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material and a metal. They observed electrons behaving as though they were unusually heavy, including a previously unseen state created by interactions between the ultrathin layer and the copper beneath it. This first-of-its-kind observation reveals a promising new way to control exotic quantum behavior.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 44,
- "refreshed": 1794914655.3567643
+ "sent_count": 45,
+ "refreshed": 1794946747.1261885
 }
