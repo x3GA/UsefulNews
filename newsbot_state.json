@@ -44,18 +44,10 @@
   "cdaccc15501b8b4f",
   "aa5ff3ce791baa85",
   "e109ed741d2606c0",
-  "9286d32c72357028"
+  "9286d32c72357028",
+  "07e631b1d71d05d5"
  ],
  "queue": [
-  {
-   "id": "07e631b1d71d05d5",
-   "feed": "Science Daily",
-   "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-   "blurb": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "1e328afeb6e141bc",
    "feed": "Science Daily",
@@ -217,8 +209,17 @@
    "blurb": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material and a metal. They observed electrons behaving as though they were unusually heavy, including a previously unseen state created by interactions between the ultrathin layer and the copper beneath it. This first-of-its-kind observation reveals a promising new way to control exotic quantum behavior.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "4cb0de891c199038",
+   "feed": "Science Daily",
+   "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+   "blurb": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand why it works.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 45,
- "refreshed": 1794946747.1261885
+ "sent_count": 46,
+ "refreshed": 1794999401.8925886
 }
