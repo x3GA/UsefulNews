@@ -48,18 +48,10 @@
   "07e631b1d71d05d5",
   "1e328afeb6e141bc",
   "24dbfecdedf27a0b",
-  "e208d0b84893d22c"
+  "e208d0b84893d22c",
+  "a795608253668b4b"
  ],
  "queue": [
-  {
-   "id": "a795608253668b4b",
-   "feed": "Science Daily",
-   "title": "A massive new simulation reveals how the universe emerged from darkness",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-   "blurb": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "8fc9b479e635a125",
    "feed": "Science Daily",
@@ -221,8 +213,17 @@
    "blurb": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "0331488ebcb41901",
+   "feed": "MIT Technology Review",
+   "title": "A human liver has been kept alive outside the body for a record seven weeks",
+   "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+   "blurb": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
+   "positive": false,
+   "score": 9.0
   }
  ],
- "sent_count": 49,
- "refreshed": 1795085949.513153
+ "sent_count": 50,
+ "refreshed": 1795117783.6679592
 }
