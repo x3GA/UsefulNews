@@ -47,18 +47,10 @@
   "9286d32c72357028",
   "07e631b1d71d05d5",
   "1e328afeb6e141bc",
-  "24dbfecdedf27a0b"
+  "24dbfecdedf27a0b",
+  "e208d0b84893d22c"
  ],
  "queue": [
-  {
-   "id": "e208d0b84893d22c",
-   "feed": "Science Daily",
-   "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-   "blurb": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "a795608253668b4b",
    "feed": "Science Daily",
@@ -211,8 +203,26 @@
    "blurb": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage associated with neurodegeneration in mice. Removing the protein made the damage worse, highlighting its critical protective role.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "f0442a2d6775033f",
+   "feed": "MIT Technology Review",
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "blurb": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "d6d7c98100205e79",
+   "feed": "Science Daily",
+   "title": "New discovery reveals what may be holding back room-temperature superconductors",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+   "blurb": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 48,
- "refreshed": 1795031344.4237478
+ "sent_count": 49,
+ "refreshed": 1795085949.513153
 }
