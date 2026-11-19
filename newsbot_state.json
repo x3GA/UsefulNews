@@ -46,18 +46,10 @@
   "e109ed741d2606c0",
   "9286d32c72357028",
   "07e631b1d71d05d5",
-  "1e328afeb6e141bc"
+  "1e328afeb6e141bc",
+  "24dbfecdedf27a0b"
  ],
  "queue": [
-  {
-   "id": "24dbfecdedf27a0b",
-   "feed": "Science Daily",
-   "title": "The mystery of how hair knows where to grow may finally be solved",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
-   "blurb": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature can create complex biological patterns without a detailed blueprint.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "e208d0b84893d22c",
    "feed": "Science Daily",
@@ -221,6 +213,6 @@
    "score": 8.0
   }
  ],
- "sent_count": 47,
+ "sent_count": 48,
  "refreshed": 1795031344.4237478
 }
