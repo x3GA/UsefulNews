@@ -49,18 +49,10 @@
   "1e328afeb6e141bc",
   "24dbfecdedf27a0b",
   "e208d0b84893d22c",
-  "a795608253668b4b"
+  "a795608253668b4b",
+  "8fc9b479e635a125"
  ],
  "queue": [
-  {
-   "id": "8fc9b479e635a125",
-   "feed": "Science Daily",
-   "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-   "blurb": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "f9f6b92afbc12fdf",
    "feed": "Science Daily",
@@ -224,6 +216,6 @@
    "score": 9.0
   }
  ],
- "sent_count": 50,
+ "sent_count": 51,
  "refreshed": 1795117783.6679592
 }
