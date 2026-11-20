@@ -51,18 +51,10 @@
   "e208d0b84893d22c",
   "a795608253668b4b",
   "8fc9b479e635a125",
-  "f9f6b92afbc12fdf"
+  "f9f6b92afbc12fdf",
+  "d7ad22ed827375f6"
  ],
  "queue": [
-  {
-   "id": "d7ad22ed827375f6",
-   "feed": "Science Daily",
-   "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-   "blurb": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "39136d85fce30fe7",
    "feed": "Science Daily",
@@ -224,8 +216,17 @@
    "blurb": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "b9c4b08fe3911841",
+   "feed": "Science Daily",
+   "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+   "blurb": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 52,
- "refreshed": 1795171674.8322685
+ "sent_count": 53,
+ "refreshed": 1795202958.2194219
 }
