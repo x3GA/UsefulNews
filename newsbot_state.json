@@ -50,18 +50,10 @@
   "24dbfecdedf27a0b",
   "e208d0b84893d22c",
   "a795608253668b4b",
-  "8fc9b479e635a125"
+  "8fc9b479e635a125",
+  "f9f6b92afbc12fdf"
  ],
  "queue": [
-  {
-   "id": "f9f6b92afbc12fdf",
-   "feed": "Science Daily",
-   "title": "Crows can make decisions twice as fast as humans, scientists discover",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-   "blurb": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "d7ad22ed827375f6",
    "feed": "Science Daily",
@@ -214,8 +206,26 @@
    "blurb": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
    "positive": false,
    "score": 9.0
+  },
+  {
+   "id": "bf367e0ac21f8d3a",
+   "feed": "Science Daily",
+   "title": "Experimental compound burns fat without sacrificing muscle",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "blurb": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "adb130866a5e2063",
+   "feed": "Science Daily",
+   "title": "The secret to building Moon bases may be hiding in emergency blankets",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+   "blurb": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 51,
- "refreshed": 1795117783.6679592
+ "sent_count": 52,
+ "refreshed": 1795171674.8322685
 }
