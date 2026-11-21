@@ -53,18 +53,10 @@
   "8fc9b479e635a125",
   "f9f6b92afbc12fdf",
   "d7ad22ed827375f6",
-  "39136d85fce30fe7"
+  "39136d85fce30fe7",
+  "3a92920b650413bf"
  ],
  "queue": [
-  {
-   "id": "3a92920b650413bf",
-   "feed": "Science Daily",
-   "title": "AI-powered bionic eye breakthrough could help the blind see again",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-   "blurb": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "d837e9eb2622f560",
    "feed": "Science Daily",
@@ -217,8 +209,26 @@
    "blurb": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "4c9896fc58b78250",
+   "feed": "Science Daily",
+   "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+   "blurb": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "1f7371d321a7c10c",
+   "feed": "Science Daily",
+   "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+   "blurb": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 54,
- "refreshed": 1795202958.2194219
+ "sent_count": 55,
+ "refreshed": 1795257095.4751518
 }
