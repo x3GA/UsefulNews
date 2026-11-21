@@ -54,18 +54,10 @@
   "f9f6b92afbc12fdf",
   "d7ad22ed827375f6",
   "39136d85fce30fe7",
-  "3a92920b650413bf"
+  "3a92920b650413bf",
+  "d837e9eb2622f560"
  ],
  "queue": [
-  {
-   "id": "d837e9eb2622f560",
-   "feed": "Science Daily",
-   "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
-   "blurb": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "7b3fa9f63382cb15",
    "feed": "Science Daily",
@@ -227,8 +219,17 @@
    "blurb": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "88875db0d172595c",
+   "feed": "Science Daily",
+   "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "blurb": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 55,
- "refreshed": 1795257095.4751518
+ "sent_count": 56,
+ "refreshed": 1795285951.3208396
 }
