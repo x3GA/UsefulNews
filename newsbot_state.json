@@ -52,18 +52,10 @@
   "a795608253668b4b",
   "8fc9b479e635a125",
   "f9f6b92afbc12fdf",
-  "d7ad22ed827375f6"
+  "d7ad22ed827375f6",
+  "39136d85fce30fe7"
  ],
  "queue": [
-  {
-   "id": "39136d85fce30fe7",
-   "feed": "Science Daily",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-   "blurb": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "3a92920b650413bf",
    "feed": "Science Daily",
@@ -227,6 +219,6 @@
    "score": 8.0
   }
  ],
- "sent_count": 53,
+ "sent_count": 54,
  "refreshed": 1795202958.2194219
 }
