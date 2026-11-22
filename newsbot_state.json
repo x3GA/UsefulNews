@@ -55,18 +55,10 @@
   "d7ad22ed827375f6",
   "39136d85fce30fe7",
   "3a92920b650413bf",
-  "d837e9eb2622f560"
+  "d837e9eb2622f560",
+  "7b3fa9f63382cb15"
  ],
  "queue": [
-  {
-   "id": "7b3fa9f63382cb15",
-   "feed": "Science Daily",
-   "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-   "blurb": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "bcd1b15318a873c9",
    "feed": "Science Daily",
@@ -230,6 +222,6 @@
    "score": 7.0
   }
  ],
- "sent_count": 56,
+ "sent_count": 57,
  "refreshed": 1795285951.3208396
 }
