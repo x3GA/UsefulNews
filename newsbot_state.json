@@ -57,18 +57,10 @@
   "3a92920b650413bf",
   "d837e9eb2622f560",
   "7b3fa9f63382cb15",
-  "bcd1b15318a873c9"
+  "bcd1b15318a873c9",
+  "45256f4846edb526"
  ],
  "queue": [
-  {
-   "id": "45256f4846edb526",
-   "feed": "Science Daily",
-   "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-   "blurb": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "c483ec2db561705f",
    "feed": "Science Daily",
@@ -230,8 +222,17 @@
    "blurb": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
    "positive": false,
    "score": 6.0
+  },
+  {
+   "id": "93aa0cf86ec7e164",
+   "feed": "Science Daily",
+   "title": "Something strange is living beneath the skin of deep-sea pigs",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+   "blurb": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large. Researchers suspect it depends heavily on its host for survival, but what the sea pigs gain in return remains a mystery.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 58,
- "refreshed": 1795343760.7866628
+ "sent_count": 59,
+ "refreshed": 1795373693.2936418
 }
