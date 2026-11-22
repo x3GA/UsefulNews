@@ -56,18 +56,10 @@
   "39136d85fce30fe7",
   "3a92920b650413bf",
   "d837e9eb2622f560",
-  "7b3fa9f63382cb15"
+  "7b3fa9f63382cb15",
+  "bcd1b15318a873c9"
  ],
  "queue": [
-  {
-   "id": "bcd1b15318a873c9",
-   "feed": "Science Daily",
-   "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-   "blurb": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "45256f4846edb526",
    "feed": "Science Daily",
@@ -220,8 +212,26 @@
    "blurb": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "804442f2150583d9",
+   "feed": "MIT Technology Review",
+   "title": "The most misunderstood graph in AI just got a major update",
+   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "blurb": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+   "positive": false,
+   "score": 6.0
+  },
+  {
+   "id": "85eb88373637178d",
+   "feed": "Science Daily",
+   "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+   "blurb": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
+   "positive": false,
+   "score": 6.0
   }
  ],
- "sent_count": 57,
- "refreshed": 1795285951.3208396
+ "sent_count": 58,
+ "refreshed": 1795343760.7866628
 }
