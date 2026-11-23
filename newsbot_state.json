@@ -59,18 +59,10 @@
   "7b3fa9f63382cb15",
   "bcd1b15318a873c9",
   "45256f4846edb526",
-  "c483ec2db561705f"
+  "c483ec2db561705f",
+  "b53dbb591be4db52"
  ],
  "queue": [
-  {
-   "id": "b53dbb591be4db52",
-   "feed": "Science Daily",
-   "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
-   "blurb": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "5d04dde7507a735f",
    "feed": "Science Daily",
@@ -223,8 +215,26 @@
    "blurb": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large. Researchers suspect it depends heavily on its host for survival, but what the sea pigs gain in return remains a mystery.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "4829fda5229d22d9",
+   "feed": "Science Daily",
+   "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+   "blurb": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal how life endured the harsh conditions of our planet's earliest days.",
+   "positive": false,
+   "score": 7.0
+  },
+  {
+   "id": "2f795dcf53346c87",
+   "feed": "Science Daily",
+   "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+   "blurb": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. The breakthrough confirms a decades-old prediction and suggests that traditional chemistry rules don't fully apply to heavy elements such as bismuth.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 60,
- "refreshed": 1795373693.2936418
+ "sent_count": 61,
+ "refreshed": 1795433831.682355
 }
