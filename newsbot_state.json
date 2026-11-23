@@ -60,18 +60,10 @@
   "bcd1b15318a873c9",
   "45256f4846edb526",
   "c483ec2db561705f",
-  "b53dbb591be4db52"
+  "b53dbb591be4db52",
+  "5d04dde7507a735f"
  ],
  "queue": [
-  {
-   "id": "5d04dde7507a735f",
-   "feed": "Science Daily",
-   "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-   "blurb": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "019575aece95d941",
    "feed": "Science Daily",
@@ -233,8 +225,17 @@
    "blurb": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. The breakthrough confirms a decades-old prediction and suggests that traditional chemistry rules don't fully apply to heavy elements such as bismuth.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "f025afeb57c9c064",
+   "feed": "Science Daily",
+   "title": "A 50-year-old theory about evolution may have been wrong all along",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+   "blurb": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists could detect them.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 61,
- "refreshed": 1795433831.682355
+ "sent_count": 62,
+ "refreshed": 1795475474.3316424
 }
