@@ -58,18 +58,10 @@
   "d837e9eb2622f560",
   "7b3fa9f63382cb15",
   "bcd1b15318a873c9",
-  "45256f4846edb526"
+  "45256f4846edb526",
+  "c483ec2db561705f"
  ],
  "queue": [
-  {
-   "id": "c483ec2db561705f",
-   "feed": "Science Daily",
-   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-   "blurb": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "b53dbb591be4db52",
    "feed": "Science Daily",
@@ -233,6 +225,6 @@
    "score": 7.0
   }
  ],
- "sent_count": 59,
+ "sent_count": 60,
  "refreshed": 1795373693.2936418
 }
