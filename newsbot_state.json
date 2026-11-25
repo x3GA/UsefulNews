@@ -63,18 +63,10 @@
   "b53dbb591be4db52",
   "5d04dde7507a735f",
   "e4140fe04566cf7c",
-  "019575aece95d941"
+  "019575aece95d941",
+  "25b27a09eb2fa304"
  ],
  "queue": [
-  {
-   "id": "25b27a09eb2fa304",
-   "feed": "Science Daily",
-   "title": "A material just one atom thick reveals a strange quantum secret",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
-   "blurb": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material and a metal. They observed electrons behaving as though they were unusually heavy, including a previously unseen state created by interactions between the ultrathin layer and the copper beneath it. This first-of-its-kind observation reveals a promising new way to control exotic quantum behavior.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "4cb0de891c199038",
    "feed": "Science Daily",
@@ -236,8 +228,17 @@
    "blurb": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
    "positive": false,
    "score": 7.0
+  },
+  {
+   "id": "16dfb72df17ef0a4",
+   "feed": "Science Daily",
+   "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+   "blurb": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between the electron and positron could expose cracks in the Standard Model of particle physics.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 64,
- "refreshed": 1795563731.321871
+ "sent_count": 65,
+ "refreshed": 1795607860.642483
 }
