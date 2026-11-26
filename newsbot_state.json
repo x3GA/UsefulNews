@@ -66,18 +66,10 @@
   "019575aece95d941",
   "25b27a09eb2fa304",
   "4cb0de891c199038",
-  "b5128f6cb027a9c6"
+  "b5128f6cb027a9c6",
+  "f0442a2d6775033f"
  ],
  "queue": [
-  {
-   "id": "f0442a2d6775033f",
-   "feed": "MIT Technology Review",
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "blurb": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "d6d7c98100205e79",
    "feed": "Science Daily",
@@ -239,8 +231,17 @@
    "blurb": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "34e52cea82e08209",
+   "feed": "Science Daily",
+   "title": "This 345-million-year-old fossil had scientists fooled for decades",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+   "blurb": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery suggests that several adaptations associated with life on land actually evolved in animals still dependent on water.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 67,
- "refreshed": 1795693557.6667426
+ "sent_count": 68,
+ "refreshed": 1795726009.1599221
 }
