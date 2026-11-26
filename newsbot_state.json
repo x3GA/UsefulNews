@@ -65,18 +65,10 @@
   "e4140fe04566cf7c",
   "019575aece95d941",
   "25b27a09eb2fa304",
-  "4cb0de891c199038"
+  "4cb0de891c199038",
+  "b5128f6cb027a9c6"
  ],
  "queue": [
-  {
-   "id": "b5128f6cb027a9c6",
-   "feed": "Science Daily",
-   "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-   "blurb": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage associated with neurodegeneration in mice. Removing the protein made the damage worse, highlighting its critical protective role.",
-   "positive": false,
-   "score": 8.0
-  },
   {
    "id": "f0442a2d6775033f",
    "feed": "MIT Technology Review",
@@ -238,8 +230,17 @@
    "blurb": "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past. Instead of a single catastrophic bombardment, asteroid impacts appear to have declined gradually over billions of years, revealing new clues about Earth's early evolution and the origins of life.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "0ffa5dedcdea3287",
+   "feed": "MIT Technology Review",
+   "title": "The next generation of bionic hands is here—and they can feel",
+   "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+   "blurb": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 66,
- "refreshed": 1795640900.9642282
+ "sent_count": 67,
+ "refreshed": 1795693557.6667426
 }
