@@ -68,18 +68,10 @@
   "4cb0de891c199038",
   "b5128f6cb027a9c6",
   "f0442a2d6775033f",
-  "d6d7c98100205e79"
+  "d6d7c98100205e79",
+  "0331488ebcb41901"
  ],
  "queue": [
-  {
-   "id": "0331488ebcb41901",
-   "feed": "MIT Technology Review",
-   "title": "A human liver has been kept alive outside the body for a record seven weeks",
-   "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-   "blurb": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
-   "positive": false,
-   "score": 9.0
-  },
   {
    "id": "bf367e0ac21f8d3a",
    "feed": "Science Daily",
@@ -241,8 +233,17 @@
    "blurb": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a major source of plastic pollution into a valuable industrial resource while making lubricant production more sustainable.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "48e6eb0f71e2b879",
+   "feed": "Science Daily",
+   "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+   "blurb": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi-Fi or radio signals, gravity passes through ordinary barriers without being blocked, offering a potentially revolutionary way to communicate.",
+   "positive": false,
+   "score": 8.0
   }
  ],
- "sent_count": 69,
- "refreshed": 1795779585.0033
+ "sent_count": 70,
+ "refreshed": 1795811543.0395026
 }
