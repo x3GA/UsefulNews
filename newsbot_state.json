@@ -69,18 +69,10 @@
   "b5128f6cb027a9c6",
   "f0442a2d6775033f",
   "d6d7c98100205e79",
-  "0331488ebcb41901"
+  "0331488ebcb41901",
+  "bf367e0ac21f8d3a"
  ],
  "queue": [
-  {
-   "id": "bf367e0ac21f8d3a",
-   "feed": "Science Daily",
-   "title": "Experimental compound burns fat without sacrificing muscle",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-   "blurb": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
-   "positive": false,
-   "score": 7.0
-  },
   {
    "id": "adb130866a5e2063",
    "feed": "Science Daily",
@@ -242,8 +234,17 @@
    "blurb": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi-Fi or radio signals, gravity passes through ordinary barriers without being blocked, offering a potentially revolutionary way to communicate.",
    "positive": false,
    "score": 8.0
+  },
+  {
+   "id": "286b8fcfed2604ec",
+   "feed": "Science Daily",
+   "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "blurb": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists discovered that the tusk contains two intertwined microscopic spirals that twist in opposite directions.",
+   "positive": false,
+   "score": 7.0
   }
  ],
- "sent_count": 70,
- "refreshed": 1795811543.0395026
+ "sent_count": 71,
+ "refreshed": 1795864471.7966485
 }
